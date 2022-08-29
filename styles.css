@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+.mainbody {
+    background-color:  	#657b83;
+}
+
+h1 {
+    background-color: #cb4b16
+}
+
+h3 {
+    font-style: italic;
+}
+
+li {
+    color: #859900;
+    font-weight: bold;
+}
+
+ul,
+ol {
+    background-color: #002b36;
+}
+
+ul.main {
+    background-color: grey;
+}
